@@ -1,2 +1,2 @@
-# STA-100-Visualizations
-Julia visualizations of basic statistical concepts
+# Julia teaching visuals
+Julia Jupyter notebook visualizations of basic statistical and economic concepts
